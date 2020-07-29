@@ -33,6 +33,7 @@ These are some of the books I have in mind so far, but might add/remove some of 
 
 
 
+## Tentative Schedule for this competition
 Date | Topic | Reading  | Online Lectures | Workshops/Meetings | Notes |
 ---- | :---: | --- | --- | --- | ---|
 Week of 2/11 | Intro to Parallel Programming. | [Intro Reading](https://github.ncsu.edu/bnkara/Student-Cluster-Competition/blob/master/Readings/CUDA_ch1.pdf). [Chapters: Overview and Concepts and Terminology](https://computing.llnl.gov/tutorials/parallel_comp/#Abstract) . |  [Intro to Parallel Programming](https://classroom.udacity.com/courses/cs344). [Fundamentals of Parallelism on Intel Architecture](https://www.coursera.org/learn/parallelism-ia/home/welcome) NOTE: see this [page](https://projects.ncsu.edu/hpc/Documents/Compilers.php) for Intel compilers for Henry2. | Dr. Byrd meets with Trudi Brown. Berra metts with John Ravi from Dr. Becchi's research group. Team meets. | Programming in C/C++ in Linux and Linux shell knowledge is required before starting the online courses. Some basic knowledge of computer architecture is assumed. [Install the free CUDA toolkit on your machine](https://developer.nvidia.com/how-to-cuda-c-cpp) . Finish two weeks. It would be nice if you guys can also finish week 3.|
@@ -55,24 +56,35 @@ Week of 6/3 |  | |   |  | |
 Week of 6/10 |  | |   |  | |
 Week of 6/17 | |[CUDA COURSE](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/info) [Linkedin](https://docs.google.com/document/d/1lWitPKM4fwQM1J_P53D1wH6Ly4PvkINO7PYmsloVSZc/edit)|   |  | |
 Week of 6/24 |  | |   |[See meeting minute](https://docs.google.com/document/d/1TuleSoKE5MpZIBMvYg6ShJAdlxDtR8A7lTCg5mCnris/edit)   | |
-Week of 7/1 | Application Released  | [VPIC](https://github.com/lanl/vpic), [SST](http://sst-simulator.org/SSTPages/SSTMainDocumentation/), [Reproductive Challenge](https://github.com/js1019/NormalModes) |   |[See meeting minute](https://docs.google.com/document/d/1jJHWBygodzy-4Zx1eyyLYv9zlmYQhIeoArvYA7A0mhE/edit)   |Assigning Team |
-Week of 7/8 |  | |   |  | |
-Week of 7/15 |  | |   |  | |
-Week of 7/22 |  | |   |  | |
-Week of 7/29 |  | |   |  | |
-Week of 8/5 |  | |   |  | |
-Week of 8/12 |  | |   |  | |
-Week of 8/19 |  | |   |  | |
-Week of 8/26 |  | |   |  | |
-Week of 9/2  |  | |   |  | |
-Week of 9/9 |  | |   |  | |
-Week of 9/16 |  | |   |  | |
-Week of 9/23 |  | |   |  | |
-Week of 9/30 |  | |   |  | |
-Week of 10/07 |  | |   |  | |
-Week of 10/14 |  | |   |  | |
-Week of 10/21 |  | |   |  | |
-Week of 10/28 |  | |   |  | |
-Week of 11/04 |  | |   |  | |
-Week of 11/11 |  | |   |  | |
-Week of 11/18 | CONFERENCE WEEK | |   |  | |
+Week of 7/1 | Application Released  | [VPIC](https://github.com/lanl/vpic), [SST](http://sst-simulator.org/SSTPages/SSTMainDocumentation/), [Reproductive Challenge](https://github.com/js1019/NormalModes) |   |[See meeting minute](https://docs.google.com/document/d/1jJHWBygodzy-4Zx1eyyLYv9zlmYQhIeoArvYA7A0mhE/edit)   |Assigning Team | 
+Week of 7/28 | Intro Meeting | |  |  | |
+
+Week of 8/10 |  | |   |  | |
+
+Week of 8/17 |  | |   |  | |
+
+Week of 8/24 |  | |   |  | |
+
+Week of 8/31 |  | |   |  | |
+
+Week of 9/7  |  | |   |  | |
+
+Week of 9/14 |  | |   |  | |
+
+Week of 9/21 |  | |   |  | |
+
+Week of 9/28 |  | |   |  | |
+
+Week of 10/05 |  | |   |  | |
+
+Week of 10/12 |  | |   |  | |
+
+Week of 10/19 |  | |   |  | |
+
+Week of 10/26 |  | |   |  | |
+
+Week of 11/02 |  | |   |  | |
+
+Week of 11/09 |  | |   |  | |
+
+Week of 11/16 | CONFERENCE WEEK | |   |  | |
