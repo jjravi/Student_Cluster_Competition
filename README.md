@@ -59,31 +59,17 @@ Week of 6/24 |  | |   |[See meeting minute](https://docs.google.com/document/d/1
 Week of 7/1 | Application Released  | [VPIC](https://github.com/lanl/vpic), [SST](http://sst-simulator.org/SSTPages/SSTMainDocumentation/), [Reproductive Challenge](https://github.com/js1019/NormalModes) |   |[See meeting minute](https://docs.google.com/document/d/1jJHWBygodzy-4Zx1eyyLYv9zlmYQhIeoArvYA7A0mhE/edit)   |Assigning Team |
 Week of 7/28 | Intro Meeting | |   |  | |
 Week of 8/10 | | |   |  | |
-
 Week of 8/17 |  | |   |  | |
-
 Week of 8/24 |  | |   |  | |
-
 Week of 8/31 |  | |   |  | |
-
 Week of 9/7  |  | |   |  | |
-
 Week of 9/14 |  | |   |  | |
-
 Week of 9/21 |  | |   |  | |
-
 Week of 9/28 |  | |   |  | |
-
 Week of 10/05 |  | |   |  | |
-
 Week of 10/12 |  | |   |  | |
-
 Week of 10/19 |  | |   |  | |
-
 Week of 10/26 |  | |   |  | |
-
 Week of 11/02 |  | |   |  | |
-
 Week of 11/09 |  | |   |  | |
-
 Week of 11/16 | CONFERENCE WEEK | |   |  | |
