@@ -10,6 +10,7 @@
 # Team
 * Michael Kersting-- Team Member Email: mwkersti@ncsu.edu
 * Quinn Dibble-- Team Member Email: qdibble@ncsu.edu
+* Andrew Younkers-- Team Member Email: asyounke@ncsu.edu
 
 
 SC20 Conference Website can be found [here](https://sc20.supercomputing.org/)
