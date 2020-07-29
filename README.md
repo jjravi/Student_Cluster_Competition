@@ -37,4 +37,19 @@ These are some of the books I have in mind so far, but might add/remove some of 
 Date | Topic | Reading  | Online Lectures | Workshops/Meetings | Notes |
 ---- | :---: | --- | --- | --- | ---|
 
-Week of 7/28 |  | |   |  | |
+Week of 7/28 | Intro Meeting | |  |  | |
+Week of 8/10 |  | |   |  | |
+Week of 8/17 |  | |   |  | |
+Week of 8/24 |  | |   |  | |
+Week of 8/31 |  | |   |  | |
+Week of 9/7  |  | |   |  | |
+Week of 9/14 |  | |   |  | |
+Week of 9/21 |  | |   |  | |
+Week of 9/28 |  | |   |  | |
+Week of 10/05 |  | |   |  | |
+Week of 10/12 |  | |   |  | |
+Week of 10/19 |  | |   |  | |
+Week of 10/26 |  | |   |  | |
+Week of 11/02 |  | |   |  | |
+Week of 11/09 |  | |   |  | |
+Week of 11/16 | CONFERENCE WEEK | |   |  | |
