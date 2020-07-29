@@ -58,7 +58,6 @@ Week of 6/17 | |[CUDA COURSE](https://courses.nvidia.com/courses/course-v1:DLI+C
 Week of 6/24 |  | |   |[See meeting minute](https://docs.google.com/document/d/1TuleSoKE5MpZIBMvYg6ShJAdlxDtR8A7lTCg5mCnris/edit)   | |
 Week of 7/1 | Application Released  | [VPIC](https://github.com/lanl/vpic), [SST](http://sst-simulator.org/SSTPages/SSTMainDocumentation/), [Reproductive Challenge](https://github.com/js1019/NormalModes) |   |[See meeting minute](https://docs.google.com/document/d/1jJHWBygodzy-4Zx1eyyLYv9zlmYQhIeoArvYA7A0mhE/edit)   |Assigning Team |
 Week of 7/28 | Intro Meeting | |   |  | |
-
 Week of 8/10 | | |   |  | |
 
 Week of 8/17 |  | |   |  | |
